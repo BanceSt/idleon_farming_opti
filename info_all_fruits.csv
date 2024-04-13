@@ -1,0 +1,121 @@
+num,type,path_img,name,evolution chance,speed,exp
+0,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Apple.jpg,Apple,30%,4H,5
+1,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Orange.jpg,Orange,22.5%,4H,5
+2,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Lemon.jpg,Lemon,16.88%,4H,5
+3,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Pear.jpg,Pear,12.66%,4H,5
+4,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Strawberry.jpg,Strawberry,9.492%,4H,5
+5,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Bananas.jpg,Bananas,7.119%,4H,5
+6,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Blueberry.jpg,Blueberry,5.339%,4H,5
+7,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Red Grapes.jpg,Red Grapes,4.005%,4H,5
+8,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Red Pear.jpg,Red Pear,3.003%,4H,5
+9,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Pineapple.jpg,Pineapple,2.253%,4H,5
+10,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Lime.jpg,Lime,1.689%,4H,5
+11,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Raspberry.jpg,Raspberry,1.267%,4H,5
+12,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Fig.jpg,Fig,0.9503%,4H,5
+13,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Peach.jpg,Peach,0.7127%,4H,5
+14,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Purple Grapes.jpg,Purple Grapes,0.5345%,4H,5
+15,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Yellow Pear.jpg,Yellow Pear,0.4009%,4H,5
+16,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Watermelon.jpg,Watermelon,0.3007%,4H,5
+17,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Green Grapes.jpg,Green Grapes,0.2255%,4H,5
+18,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Dragon Fruit.jpg,Dragon Fruit,0.1691%,4H,5
+19,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Mango.jpg,Mango,0.1268%,4H,5
+20,Basic,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Basic/Gold Blueberry.jpg,Gold Blueberry,0.09514%,4H,5
+0,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Carrot.jpg,Carrot,30%,6H,55
+1,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Potato.jpg,Potato,18.9%,6H,67
+2,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Beat.jpg,Beat,11.91%,6H,83
+3,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Tomato.jpg,Tomato,7.501%,6H,102
+4,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Artichoke.jpg,Artichoke,4.726%,6H,127
+5,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Roma Tomato.jpg,Roma Tomato,2.977%,6H,157
+6,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Butternut Squash.jpg,Butternut Squash,1.876%,6H,195
+7,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Avocado.jpg,Avocado,1.182%,6H,243
+8,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Red Pepper.jpg,Red Pepper,0.7445%,6H,303
+9,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Broccoli.jpg,Broccoli,0.469%,6H,377
+10,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Radish.jpg,Radish,0.2955%,6H,470
+11,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Coconut.jpg,Coconut,0.1862%,6H,587
+12,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Sliced Tomato.jpg,Sliced Tomato,0.1173%,6H,732
+13,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Cashew.jpg,Cashew,0.07388%,6H,914
+14,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Turnip.jpg,Turnip,0.04655%,6H,1141
+15,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Coffee Bean.jpg,Coffee Bean,0.02932%,6H,1426
+16,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Pumpkin.jpg,Pumpkin,0.01847%,6H,1781
+17,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Sliced Cucumber.jpg,Sliced Cucumber,0.01164%,6H,2225
+18,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Eggplant.jpg,Eggplant,0.007332%,6H,2780
+19,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Lettuce.jpg,Lettuce,0.004619%,6H,3474
+20,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Garlic.jpg,Garlic,0.00291%,6H,4341
+21,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Green Beans.jpg,Green Beans,0.001833%,6H,5426
+22,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Bell Pepper.jpg,Bell Pepper,0.001155%,6H,6781
+23,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Corn.jpg,Corn,0.0007277%,6H,8475
+24,Earthy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Earthy/Gold Sliced Tomato.jpg,Gold Sliced Tomato,0.0004585%,6H,10592
+0,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Daisy.jpg,Daisy,30%,9H,205
+1,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Flour.jpg,Flour,9%,9H,255
+2,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Stargazer Lily.jpg,Stargazer Lily,2.7%,9H,317
+3,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Rose.jpg,Rose,0.81%,9H,395
+4,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Sunflower.jpg,Sunflower,0.243%,9H,493
+5,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Blue Daisy.jpg,Blue Daisy,0.0729%,9H,615
+6,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Red Rose.jpg,Red Rose,0.02187%,9H,767
+7,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Tulip.jpg,Tulip,0.006561%,9H,958
+8,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Pink Daisy.jpg,Pink Daisy,0.001968%,9H,1197
+9,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Cauliflower.jpg,Cauliflower,0.0005905%,9H,1495
+10,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Cape Marguerite Daisy.jpg,Cape Marguerite Daisy,0.0001771%,9H,1867
+11,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Papua Black Orchid.jpg,Papua Black Orchid,5.314e-05%,9H,2333
+12,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Muffin.jpg,Muffin,1.594e-05%,9H,2915
+13,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Black Rose.jpg,Black Rose,4.783e-06%,9H,3642
+14,Bulbo,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Bulbo/Golden Tulip.jpg,Golden Tulip,1.435e-06%,9H,4552
+0,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Sake Maki.jpg,Sake Maki,30%,13H 30M,605
+1,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Salmon Nigiri.jpg,Salmon Nigiri,12%,13H 30M,755
+2,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Temaki.jpg,Temaki,4.8%,13H 30M,942
+3,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Hamaguri.jpg,Hamaguri,1.92%,13H 30M,1176
+4,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Onigiri.jpg,Onigiri,0.768%,13H 30M,1469
+5,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Ama-ebi.jpg,Ama-ebi,0.3072%,13H 30M,1836
+6,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Cup Ramen.jpg,Cup Ramen,0.1229%,13H 30M,2293
+7,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Dalkon Maki.jpg,Dalkon Maki,0.04915%,13H 30M,2866
+8,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Sushi_8.jpg,Sushi_8,0.01966%,13H 30M,3581
+9,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Sushi_9.jpg,Sushi_9,0.007864%,13H 30M,4475
+10,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Ikura.jpg,Ikura,0.003146%,13H 30M,5592
+11,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Sushi_11.jpg,Sushi_11,0.001258%,13H 30M,6989
+12,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Sushi_12.jpg,Sushi_12,0.0005033%,13H 30M,8736
+13,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Sushi_13.jpg,Sushi_13,0.0002013%,13H 30M,10918
+14,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Abocado Maki.jpg,Abocado Maki,8.053e-05%,13H 30M,13647
+15,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Ebi Nigiri.jpg,Ebi Nigiri,3.221e-05%,13H 30M,17058
+16,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Sushi_16.jpg,Sushi_16,1.288e-05%,13H 30M,21321
+17,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Sushi_17.jpg,Sushi_17,5.154e-06%,13H 30M,26650
+18,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Tako Nigiri.jpg,Tako Nigiri,2.062e-06%,13H 30M,33311
+19,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Soy Sauce.jpg,Soy Sauce,8.246e-07%,13H 30M,41638
+20,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Sushi_20.jpg,Sushi_20,3.299e-07%,13H 30M,52046
+21,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Neko Rice.jpg,Neko Rice,1.319e-07%,13H 30M,65057
+22,Sushi,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Sushi/Shrimp.jpg,Shrimp,5.278e-08%,13H 30M,81320
+0,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 1.jpg,Mushroom 1,30%,20H 15M,1605
+1,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 2.jpg,Mushroom 2,6%,20H 15M,2005
+2,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 3.jpg,Mushroom 3,1.2%,20H 15M,2505
+3,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 4.jpg,Mushroom 4,0.24%,20H 15M,3130
+4,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 5.jpg,Mushroom 5,0.048%,20H 15M,3911
+5,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 6.jpg,Mushroom 6,0.0096%,20H 15M,4887
+6,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 7.jpg,Mushroom 7,0.00192%,20H 15M,6108
+7,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 8.jpg,Mushroom 8,0.000384%,20H 15M,7634
+8,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 9.jpg,Mushroom 9,7.68e-05%,20H 15M,9541
+9,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 10.jpg,Mushroom 10,1.536e-05%,20H 15M,11925
+10,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 11.jpg,Mushroom 11,3.072e-06%,20H 15M,14906
+11,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 12.jpg,Mushroom 12,6.144e-07%,20H 15M,18631
+12,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 13.jpg,Mushroom 13,1.229e-07%,20H 15M,23288
+13,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 14.jpg,Mushroom 14,2.458e-08%,20H 15M,29108
+14,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 15.jpg,Mushroom 15,4.915e-09%,20H 15M,36384
+15,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 16.jpg,Mushroom 16,9.83e-10%,20H 15M,45479
+16,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 17.jpg,Mushroom 17,1.966e-10%,20H 15M,56848
+17,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 18.jpg,Mushroom 18,3.932e-11%,20H 15M,71059
+18,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 19.jpg,Mushroom 19,7.864e-12%,20H 15M,88822
+19,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 20.jpg,Mushroom 20,1.573e-12%,20H 15M,111027
+20,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 21.jpg,Mushroom 21,3.146e-13%,20H 15M,138782
+21,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 22.jpg,Mushroom 22,6.291e-14%,20H 15M,173477
+22,Mushie,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Mushie/Mushroom 23.jpg,Mushroom 23,1.258e-14%,20H 15M,216845
+0,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Bananas.jpg,Glassy Bananas,30%,1D 6H 22M 30S,4005
+1,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Mango.jpg,Glassy Mango,1.5%,1D 6H 22M 30S,5005
+2,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Mushroom 1.jpg,Glassy Mushroom 1,0.075%,1D 6H 22M 30S,6255
+3,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Maki.jpg,Glassy Maki,0.00375%,1D 6H 22M 30S,7817
+4,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Mushroom 2.jpg,Glassy Mushroom 2,0.0001875%,1D 6H 22M 30S,9770
+5,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Carrot.jpg,Glassy Carrot,9.375e-06%,1D 6H 22M 30S,12212
+6,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Tomato.jpg,Glassy Tomato,4.688e-07%,1D 6H 22M 30S,15263
+7,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Watermellon.jpg,Glassy Watermellon,2.344e-08%,1D 6H 22M 30S,19078
+8,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Shrimp.jpg,Glassy Shrimp,1.172e-09%,1D 6H 22M 30S,23846
+9,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Rose.jpg,Glassy Rose,5.859e-11%,1D 6H 22M 30S,29807
+10,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Corn.jpg,Glassy Corn,2.93e-12%,1D 6H 22M 30S,37257
+11,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Lettuce.jpg,Glassy Lettuce,1.465e-13%,1D 6H 22M 30S,46571
+12,Glassy,G:\Projets\Python\Scrapping\Train\idleon_farming_opti/img/Glassy/Glassy Onigiri.jpg,Glassy Onigiri,7.324e-15%,1D 6H 22M 30S,58212

@@ -1,0 +1,13 @@
+# Exclude image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# Exclude image files in all subdirectories
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.gif
+**/*.svg
