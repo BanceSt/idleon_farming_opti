@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import pathlib
 import csv
+import os
 
 savePath = str(pathlib.Path(__file__).parent.resolve()) + "/img/"
 savePathCsv = str(pathlib.Path(__file__).parent.resolve()) + "/"
@@ -14,6 +15,10 @@ fields_names = ["num", "type", "path_img", "name", "evolution chance", "speed", 
 datas =[]
 
 if (req.status_code == 200) :
+
+
+
+
     soup = BeautifulSoup(req.text, "html5lib")
 
 
@@ -26,6 +31,10 @@ if (req.status_code == 200) :
 
         # chemin de sauvegarde des images
         tempSavePath = savePath + tab_soup.get("data-title") + "/"
+
+        # Vérification si le path existe, sinon créer les dossiers
+        if not os.path.exists(tempSavePath):
+            os.makedirs(tempSavePath)
         
         # Récupération des données :
         i = 0
