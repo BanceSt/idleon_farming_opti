@@ -9,10 +9,14 @@ savePathCsv = str(pathlib.Path(__file__).parent.resolve()) + "/"
 baseUrl = "https://idleon.wiki"
 req = requests.get("https://idleon.wiki/wiki/Farming")
 
-print(savePath)
+date_conv = [60, 60, 24]
 
 fields_names = ["num", "type", "path_img", "name", "evolution chance", "speed", "exp"]
 datas =[]
+
+#function
+def date_to_sec(date_s) :
+    pass
 
 if (req.status_code == 200) :
 
