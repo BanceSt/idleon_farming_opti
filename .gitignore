@@ -4,6 +4,7 @@
 *.png
 *.gif
 *.svg
+*.csv
 
 # Exclude image files in all subdirectories
 **/*.jpg
