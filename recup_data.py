@@ -9,20 +9,28 @@ savePathCsv = str(pathlib.Path(__file__).parent.resolve()) + "/"
 baseUrl = "https://idleon.wiki"
 req = requests.get("https://idleon.wiki/wiki/Farming")
 
-date_conv = [60, 60, 24]
+date_conv = {
+    "D" : 86400,
+    "H" : 3600,
+    "M" : 60,
+    "S" : 1
+}
 
 fields_names = ["num", "type", "path_img", "name", "evolution chance", "speed", "exp"]
 datas =[]
 
 #function
 def date_to_sec(date_s) :
-    pass
+    """ Cette fonction change un date en format \"xxD xxH xxM xxS\" en secondes"""
+    date_split = date_s.split(" ")
+    date_sec = 0
+
+    for part in date_split :
+        date_sec += int(part[:-1]) * date_conv[part[-1]]
+
+    return date_sec
 
 if (req.status_code == 200) :
-
-
-
-
     soup = BeautifulSoup(req.text, "html5lib")
 
 
@@ -61,8 +69,10 @@ if (req.status_code == 200) :
                     name = tab_soup.get("data-title") + "_" + str(i//4)
 
                 #Télécharger l'image
-                with open(tempSavePath + name.replace(" ", "_") + ".jpg", "wb") as f:
-                    f.write(picReq.content)
+                img_save_path = tempSavePath + name.replace(" ", "_") + ".jpg"
+                if not(os.path.exists(img_save_path)) :
+                    with open(img_save_path, "wb") as f:
+                        f.write(picReq.content)
 
                 #sauvegarde du path et du nom
                 datas[-1][fields_names[2]] = tempSavePath + name + ".jpg"
@@ -72,6 +82,12 @@ if (req.status_code == 200) :
             else :
                 #récupération d'une des info qui peut être Evolution chance, speed ou exp
                 info = data.get_text(strip=True)
+
+                #convertion de la date
+                if ((i2%3)==1) :
+                    info = date_to_sec(info)
+
+                #enregistrement des infos
                 datas[-1][fields_names[i2%3 + 4]] = info
                 i2 += 1
 
